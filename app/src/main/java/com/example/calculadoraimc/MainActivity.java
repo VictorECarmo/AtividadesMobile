@@ -31,19 +31,10 @@ public class MainActivity extends AppCompatActivity {
     public void AbreNovaTela(View b){
         double peso, altura, calculo;
         Intent intent = new Intent(getApplicationContext(), RecebeResultado.class);
-      // String s = editText.getText().toString();
         peso = Integer.parseInt(editPeso.getText().toString());
         altura = Integer.parseInt(editAltura.getText().toString());
         calculo = peso/(StrictMath.pow(altura/100, 2));
         intent.putExtra("calculo", calculo);
         startActivity(intent);
     }
-
-//    public Integer parseIntOrZero(String value) {
-//        try {
-//            return Integer.parseInt(value);
-//        } catch (NumberFormatException e) {
-//            return 0;
-//        }
-//    }
 }

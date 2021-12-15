@@ -8,6 +8,30 @@
     tools:context=".tela2">
 
     <TextView
+        android:id="@+id/acimaPeso"
+        android:layout_width="244dp"
+        android:layout_height="19dp"
+        android:layout_marginTop="32dp"
+        android:text="25 a 29,9 kg/m2 - Acima do peso"
+        android:textAlignment="center"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/pesoNormal"
+        app:layout_constraintTop_toBottomOf="@+id/pesoNormal" />
+
+    <TextView
+        android:id="@+id/pesoNormal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="18,5 a 24,9 kg/m2 - Peso normal"
+        android:textAlignment="center"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/abaixoPeso"
+        app:layout_constraintTop_toBottomOf="@+id/abaixoPeso" />
+
+    <TextView
         android:id="@+id/resultado"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -18,8 +42,10 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.364" />
 
     <TextView
         android:id="@+id/textView"
@@ -33,5 +59,19 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.754" />
+        app:layout_constraintVertical_bias="0.478" />
+
+    <TextView
+        android:id="@+id/abaixoPeso"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="168dp"
+        android:text="16 a 16,9 kg/m2 - Muito abaixo do peso"
+        android:textAlignment="center"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/resultado" />
 </androidx.constraintlayout.widget.ConstraintLayout>

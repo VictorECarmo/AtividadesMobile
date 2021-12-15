@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\allan\\Desktop\\Faculdade 3\\Mobile\\CalculadoraIMC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\allan\\Desktop\\Faculdade 3\\Mobile\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\allan\\.gradle\\caches\\transforms-3\\1bc1de6a32330280351f65a0393bdf57\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",

@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\allan\\Desktop\\Faculdade 3\\Mobile\\CalculadoraIMC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\allan\\Desktop\\Faculdade 3\\Mobile\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\allan\\Desktop\\Faculdade 3\\Mobile\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "837"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "732",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1453"
+                    }
+                },
                 {
                     "source": "C:\\Users\\allan\\.gradle\\caches\\transforms-3\\f794c157ce27c216c504b2261e60ef5d\\transformed\\material-1.4.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
@@ -18,25 +37,6 @@
                         "startOffsets": "1458,1546,1670,1772,1874,1990,2092,2206,2334,2450,2572,2708,2828,2962,3082,3194,3409,3533,3663,3785,3923,4057,4173",
                         "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,123,129,121,137,133,115,119",
                         "endOffsets": "1541,1665,1767,1869,1985,2087,2201,2329,2445,2567,2703,2823,2957,3077,3189,3315,3528,3658,3780,3918,4052,4168,4288"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\allan\\Desktop\\Faculdade 3\\Mobile\\CalculadoraIMC\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "823"
-                    },
-                    "to": {
-                        "startLines": "9",
-                        "startColumns": "4",
-                        "startOffsets": "732",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "1453"
                     }
                 },
                 {
