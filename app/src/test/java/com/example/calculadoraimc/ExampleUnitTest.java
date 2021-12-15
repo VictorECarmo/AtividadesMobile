@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.calculadoraimc;
 
 import org.junit.Test;
 
