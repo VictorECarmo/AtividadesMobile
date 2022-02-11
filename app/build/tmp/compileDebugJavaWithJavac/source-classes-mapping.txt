@@ -1,7 +1,0 @@
-com/example/calculadoraimc/BuildConfig.java
- com.example.calculadoraimc.BuildConfig
-com/example/calculadoraimc/RecebeResultado.java
- com.example.calculadoraimc.RecebeResultado
-com/example/calculadoraimc/MainActivity.java
- com.example.calculadoraimc.MainActivity
- com.example.calculadoraimc.MainActivity$1
