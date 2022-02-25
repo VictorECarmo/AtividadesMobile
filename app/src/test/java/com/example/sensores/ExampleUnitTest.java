@@ -1,4 +1,4 @@
-package com.example.mynotes;
+package com.example.sensores;
 
 import org.junit.Test;
 

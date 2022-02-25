@@ -3,10 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/allan/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.1" />
-        <entry key="..\:/Users/allan/Desktop/Faculdade 3/My Note/app/src/main/res/layout/activity_cadastrar.xml" value="0.22" />
-        <entry key="..\:/Users/allan/Desktop/Faculdade 3/My Note/app/src/main/res/layout/activity_exibir.xml" value="0.15" />
-        <entry key="..\:/Users/allan/Desktop/Faculdade 3/My Note/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/allan/Desktop/Faculdade 3/backupMobile/Sensores/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/allan/Desktop/Faculdade 3/backupMobile/Sensores/app/src/main/res/layout/activity_main3.xml" value="0.25" />
+        <entry key="..\:/Users/allan/Desktop/Faculdade 3/backupMobile/Sensores/app/src/main/res/layout/activity_sensor_selection.xml" value="0.12" />
       </map>
     </option>
   </component>
